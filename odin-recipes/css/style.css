@@ -1,0 +1,35 @@
+body {
+	font-family: "Lucida Console", "Courier New", monospace;
+}
+
+h1 {
+	font-size: 30px;
+	text-align: center;
+}
+
+.list {
+	font-size: 25px;
+	background-color: skyblue;
+	text-align: center;
+	margin: 10px;
+}
+
+li {
+	margin: 20px;
+	padding: 20px 0px;
+}
+
+.first {
+	color: red;
+	text-align: left;
+}
+
+.second {
+	color: blue;
+	background-color: pink;
+}
+
+.third {
+	color: white;
+	text-align: right;
+}
